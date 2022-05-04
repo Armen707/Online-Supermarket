@@ -1,0 +1,111 @@
+.divLoginCont {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1000px;
+    height: 550px;
+    display: flex;
+    background: rgb(241, 239, 234);
+    border: 1px solid rgb(241, 239, 234);
+    border-radius: 15px;
+}
+
+.divAuth1 {
+    background: rgb(241, 239, 234);
+    margin: 10px 10px 10px 10px;
+    width: 50%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.divAuth2 {
+    background: rgb(4, 192, 29);
+    width: 50%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+}
+
+.divInerContAuth {
+    margin: 10px 10px 10px 10px;
+}
+
+.grancumAuth {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonAuthGrancvel {
+    border: 2px solid green;
+    border-radius: 5px;
+    color: green;
+    font-weight: bold;
+}
+
+.textInputAuth {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.inputAuth {
+    width: 100%;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 10px;
+    padding-left: 5%;
+}
+
+.buttonAuthMutq {
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(4, 192, 29);
+    border-radius: 10px;
+    background: rgb(4, 192, 29);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.linkAuth {
+    cursor: pointer;
+    color: rgb(4, 192, 29);
+    font-size: 16px;
+}
+
+.linkAuth:hover {
+    color: green;
+}
+
+.textayAylMutqAuth {
+    margin: 20px 10px 10px 10px;
+    color: gray;
+}
+
+.divAylMutqAuth {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.aMutqAuth {
+    margin: 10px 10px 10px 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid rgb(77, 134, 236);
+    border-radius: 10px;
+    background: rgb(77, 134, 236);
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    width: 180px;
+    text-align: center;
+}
+
+.iconAuth {
+    font-size: x-large;
+}

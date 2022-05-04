@@ -1,0 +1,104 @@
+.divFooterCont {
+    margin-top: 40px;
+}
+
+.divFooterHeader {
+    background: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.spanNumberFooter {
+    margin: 30px 30px 30px 30px;
+    display: flex;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.spanLogoFooter {
+    margin: 30px 30px 30px 30px;
+}
+
+.contactFooter {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.contactFooter1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.contactFooter:hover,
+.contactFooter1:hover {
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+.logoFooter {
+    border-radius: 30px;
+}
+
+.divFooterFooterCont {
+    background-color: rgb(41, 39, 39);
+}
+
+.divFooterFooter {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px 0px 30px;
+}
+
+.spanColonka {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    color: white;
+}
+
+.vjarumFooter {
+    margin-top: 20px;
+    width: 70px;
+    height: 35px;
+    margin-left: 5px;
+    border-radius: 30px;
+}
+
+.vjarumVerjin {
+    margin-bottom: 10px;
+}
+
+.iravunqner {
+    font-size: 12px;
+}
+
+.spanColonkaText {
+    margin-top: 30px;
+    color: white;
+}
+
+.pTextFooter {
+    font-size: 18px;
+    color: white;
+}
+
+.pTextFooter:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.spanIconFooter {
+    margin-top: 30px;
+}
+
+.iconFooter {
+    margin-right: 20px;
+}
+
+.iconFooter,
+.iconFooter1 {
+    font-size: xx-large;
+    color: white;
+}

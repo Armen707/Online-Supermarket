@@ -1,0 +1,24 @@
+.divBrandMarket {
+    display: flex;
+    justify-content: space-around;
+}
+
+.spanBrandMarket {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid rgb(209, 202, 202);
+    border-radius: 10px;
+    background: #f5f5f5;
+}
+
+.spanBrandMarket:hover {
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.pBrandMarket {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}

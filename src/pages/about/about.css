@@ -1,0 +1,18 @@
+.divContAbout1 {
+    margin: 30px 30px 30px 30px;
+}
+
+.spanContImg1 {
+    border-radius: 15px;
+    width: 100%;
+}
+
+.divAbout {
+    display: flex;
+    justify-content: space-around;
+}
+
+.divAbout2 {
+    display: flex;
+    justify-content: space-around;
+}

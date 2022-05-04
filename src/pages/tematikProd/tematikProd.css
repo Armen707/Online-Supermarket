@@ -1,0 +1,29 @@
+.tematikProdCont {
+    margin: 30px 30px 30px 30px;
+}
+
+.divTematikProd {
+    margin: 30px 30px 30px 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.divTematikProdImg {
+    border-radius: 10px;
+    width: 530px;
+    height: 310px;
+}
+
+.divTematikProdImg:hover {
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.spanTematikProd {
+    margin: 30px 30px 30px 30px;
+}
+
+.h1TematikProd {
+    margin-top: 10px;
+}

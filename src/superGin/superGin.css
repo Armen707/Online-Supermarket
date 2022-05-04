@@ -1,0 +1,111 @@
+.divContSuperGin {
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.divSuperGin {
+    display: flex;
+    justify-content: space-around;
+}
+
+.divCont {
+    width: 580px;
+    height: 250px;
+    border: 1px solid rgb(209, 202, 202);
+    border-radius: 10px;
+    background: #e2e2e2;
+    ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.divCont:hover {
+    cursor: pointer;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.h3SuperGinAkciya {
+    height: 40px;
+    border: 1px solid orangered;
+    background: orangered;
+    color: white;
+    border-radius: 5px;
+}
+
+.h3SuperGinAkciya1 {
+    height: 40px;
+    border: 1px solid rgb(7, 116, 143);
+    background: rgb(7, 116, 143);
+    color: white;
+    border-radius: 5px;
+}
+
+.divCont1 {
+    width: 580px;
+    height: 250px;
+    border: 1px solid rgb(27, 185, 119);
+    border-radius: 10px;
+    background: rgb(27, 185, 119);
+    display: flex;
+    justify-content: space-around;
+}
+
+.divCont1:hover {
+    cursor: pointer;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.h3SuperGinAkciya3 {
+    height: 40px;
+    border: 1px solid rgb(182, 3, 122);
+    background: rgb(182, 3, 122);
+    color: white;
+    border-radius: 5px;
+}
+
+.divCont3 {
+    width: 580px;
+    height: 250px;
+    border: 1px solid rgb(245, 144, 211);
+    border-radius: 10px;
+    background: rgb(245, 144, 211);
+    display: flex;
+    justify-content: space-around;
+}
+
+.divCont3:hover {
+    cursor: pointer;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.h3SuperGinAkciya4 {
+    height: 40px;
+    border: 1px solid rgb(9, 233, 65);
+    background: rgb(9, 233, 65);
+    color: white;
+    border-radius: 5px;
+}
+
+.divCont4 {
+    width: 580px;
+    height: 250px;
+    border: 1px solid rgb(227, 250, 18);
+    border-radius: 10px;
+    background: rgb(227, 250, 18);
+    display: flex;
+    justify-content: space-around;
+}
+
+.divCont4:hover {
+    cursor: pointer;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+h6 {
+    color: black;
+    font-weight: bold;
+}

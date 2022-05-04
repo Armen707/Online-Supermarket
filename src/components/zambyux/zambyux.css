@@ -1,0 +1,186 @@
+.divContainerZambyux {
+    margin: 0 auto;
+    width: 700px;
+    border: 1px solid rgb(218, 212, 212);
+    border-radius: 20px;
+}
+
+.divZambyuxHeader {
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.divZambyuxDatarkel {
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonclose {
+    font-size: xx-large;
+    border: none;
+    background: white;
+}
+
+.sharunakelGnumner {
+    color: green;
+    font-weight: bold;
+    border: none;
+    background: white;
+}
+
+.datarkelZamyux {
+    border: 1px solid rgb(218, 212, 212);
+    border-radius: 5px;
+    background: white;
+}
+
+.divContProd {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(245, 241, 241);
+    height: 70px;
+    border: 1px solid rgb(218, 212, 212);
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+}
+
+.spanItemImg {
+    width: 60px;
+    height: 60px;
+}
+
+.itemImg {
+    background: rgb(245, 241, 241);
+}
+
+.spanItemName {
+    width: 140px;
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.spanItemCount {
+    margin-top: 20px;
+    height: 60px;
+}
+
+.itemInput {
+    text-align: center;
+    font-weight: bold;
+    width: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.btnplus {
+    color: white;
+    background: green;
+}
+
+.spanItemPrice {
+    font-weight: bold;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.spanItemDelete {
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.divContToprak {
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    height: 70px;
+    border: 1px solid rgb(218, 212, 212);
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+}
+
+.spanToprak {
+    margin-top: 3px;
+}
+
+.spanToprak1 {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.spanToprImg {
+    margin-top: 20px;
+}
+
+.toprakPrice {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.hr {
+    margin-top: 30px;
+}
+
+.divContPatver {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px 10px 10px;
+}
+
+.spanTextPatver {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.patver {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.divContEmpty {
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+    border: 1px solid rgb(218, 212, 212);
+    border-radius: 20px;
+}
+
+.h2empty {
+    text-align: center;
+}
+
+.h4empty {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color: grey;
+}
+
+.divBasket {
+
+    text-align: center;
+}
+
+.divButtonZamb {
+    margin-top: 40px;
+    margin: 0 auto;
+    width: 500px;
+    height: 50px;
+    background: green;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.buttonZambText {
+    margin-top: 10px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    border: none;
+}

@@ -1,0 +1,13 @@
+.spanCol {
+    border: 1px solid #f5f5f5;
+    background: #f5f5f5;
+}
+
+.textCol {
+    color: gray;
+    font-weight: bold;
+}
+
+.divMap:hover {
+    cursor: pointer;
+}

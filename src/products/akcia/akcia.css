@@ -1,0 +1,17 @@
+.divProd:hover {
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.btnGnel {
+    font-weight: bold;
+    color: white;
+    background: green;
+    border: green;
+    border-radius: 5px;
+}
+
+.prodBestSelling {
+    display: flex;
+    flex-wrap: wrap;
+}

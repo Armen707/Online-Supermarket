@@ -1,0 +1,25 @@
+.divTopProducts {
+    display: flex;
+    justify-content: space-around;
+}
+
+h5 {
+    margin-top: 10px;
+    color: black;
+}
+
+.topProducts {
+    text-align: center;
+    height: 140px;
+    width: 140px;
+    background: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.topProducts:hover {
+    background: #96eb96;
+    transition-duration: 0.3ms;
+    transition-timing-function: ease;
+}

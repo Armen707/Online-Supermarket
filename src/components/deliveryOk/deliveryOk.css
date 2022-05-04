@@ -1,0 +1,32 @@
+.delOkCont {
+    margin: auto;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    border: 1px solid rgb(218, 212, 212);
+    background: rgb(245, 241, 241);
+    border-radius: 15px;
+}
+
+.fatimess {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: none;
+}
+
+.h5ok {
+    width: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btnok {
+    width: 60px;
+    margin-top: 20px;
+    background: green;
+    border: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
