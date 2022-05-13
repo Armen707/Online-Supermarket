@@ -725,7 +725,7 @@ const App = ({ ChangeAdress }) => {
 
     const newCountLength = res + 1
 
-    const [filterResult, setFilterResult] = useState(JSON.parse(localStorage.getItem('FilterValue') || ""));
+    const [filterResult, setFilterResult] = useState(JSON.parse(localStorage.getItem('FilterValue')));
 
     let filterValue = { filterResult }
     const itemFilter = (e) => {
